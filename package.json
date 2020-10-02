@@ -1,19 +1,19 @@
 {
-	"name": "@addbots/eslint-config",
-	"version": "2.0.0",
-	"description": "base eslint config for all addbots projects",
-	"main": "index.js",
-	"keywords": [
-		"eslint",
-		"addbots"
-	],
-	"author": "addBots",
-	"license": "MIT",
-	"peerDependencies": {
-		"@typescript-eslint/parser": "^2.3.2",
-		"eslint": "^6.5.1",
-		"eslint-config-prettier": "^6.9.0",
-		"eslint-plugin-react": "^7.16.0",
-		"eslint-plugin-react-hooks": "^2.1.2"
-	}
+  "name": "@addbots/eslint-config",
+  "version": "2.0.0",
+  "description": "base eslint config for all addbots projects",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "addbots"
+  ],
+  "author": "addBots",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/parser": "^2.3.2",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^4.1.2"
+  }
 }
